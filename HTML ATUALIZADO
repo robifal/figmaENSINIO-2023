@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="pweb.css">
+</head>
+<body>
+    <div id="headr">
+        <img id="logo" src="/img/logo.png" alt="">
+        <p id="contato">Contato</p>
+        <p id="academy">Academy</p>
+        <p id="blog">Blog</p>
+        <p id="precos">Preços</p>
+        <p id="solucoes">Soluções</p>
+        <p id="idioma">Idioma</p>
+        <img src="/img/Polygon 2.png" alt="" id="polygon2">
+        
+        
+
+    </div>
+    <div id="textos">
+        <p id="plataforma">plataforma all in one</p>
+        <p id="sua">Sua escola online poderosa e lucrativa</p>
+        <p id="tenha">Tenha sua própria escola online 100% white label com rede social, gamificação, clube de assinaturas, ecommerce e sistema EAD completo.</p>
+        <button id="button"></button>
+        <p id="saiba">Saiba Mais</p>
+    </div>
+    <div id="card-entrar">
+        <div id="rectangle1339">
+            <img id="pessoas" src="/img/Vector (2).png" alt="">
+            <p id="ja">Já faz parte da Ensinio?</p>
+            <p id="ja">Acesse sua conta.</p>
+            <p id="entrar">Entrar</p>
+            <button id="botao-entrar"></button>
+        </div>
+
+
+
+        
+
+        
+    </div>
+</body>
+</html>
