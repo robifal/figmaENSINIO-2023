@@ -3,8 +3,18 @@
 
 
 body{
-    height: 900px;
+background: white;
+}
+
+#Box1{
+    width: 1950px;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+    
     background: linear-gradient(115.99deg, #00E1E7 -3.86%, #5F41D9 61.74%);
+    box-shadow: 0px 4px 60px 10px rgba(0, 0, 0, 0.05);
+
 }
 
 
@@ -684,7 +694,7 @@ line-height: 125%;
 
 /* Brand Colors/Purple/pure */
 
-color:#423D51;
+color: #5F41D9
 
 }
 #seta{
@@ -699,5 +709,21 @@ color:#423D51;
     font-size: 16px;
     line-height: 125%;
 
-   color: #423D51;
+   color: #5F41D9
+}
+#back1{
+    position: absolute;
+    width: 1850px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    
+}
+#back2{
+    position: absolute;
+    width: 2100px;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+opacity: 0.4;
 }
