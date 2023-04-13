@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="pweb.css">
+</head>
+<body>
+    <div id="headr">
+        <img id="logo" src="/img/logo.png" alt="">
+        <p id="contato">Contato</p>
+        <p id="academy">Academy</p>
+        <p id="blog">Blog</p>
+        <p id="precos">Preços</p>
+        <p id="solucoes">Soluções</p>
+        <p id="idioma">Idioma</p>
+        <img src="/img/Polygon 2.png" alt="" id="polygon2">
+        
+        
+
+    </div>
+    <div id="textos">
+        <p id="plataforma">plataforma all in one</p>
+        <p id="sua">Sua escola online poderosa e lucrativa</p>
+        <p id="tenha">Tenha sua própria escola online 100% white label com rede social, gamificação, clube de assinaturas, ecommerce e sistema EAD completo.</p>
+        <button id="button"></button>
+        <p id="saiba">Saiba Mais</p>
+    </div>
+    <div id="card-entrar">
+        <div id="rectangle1339">
+            <img id="pessoas" src="/img/Vector.png" alt="">
+            <p id="ja">Já faz parte da Ensinio?</p>
+            <p id="ja">Acesse sua conta.</p>
+            <p id="entrar">Entrar</p>
+            <button id="botao-entrar"></button>
+        </div>
+    <div id="card-icone">
+        <div id="rectangle1337"></div>
+        <img id="icone" src="/img/Icone.png" alt="">
+        <p id="se">Se ainda não faz parte,
+            comece Já
+        </p>
+        <button id="botao-comecar"><span id="comecarr">Começar</span></button>
+    </div>
+    </div>
+
+    <img id="logo1" src="img/Logo1.png" alt="">
+
+    <div id="textos2">
+        <p id="video">VÍDEO</p>
+        <p id="assista">Assista ao nosso vídeo e entenda mais</p>
+        <p id="crie">Crie cursos, venda produtos e construa sua própria Escola Online com rede social e sistema EAD completo. Sua própria plataforma white label, com ferramentas avançadas de comunidade, gamificação, marketing, pagamentos e vendas.</p>
+    </div>
+
+    <div id="macbook">
+        <img id="macboook" src="/img/Macbook.png" alt="">
+        <img id="feature" src="img/Featured Image.png" alt="">
+        <img id="icon" src="img/Play icon.png" alt="">
+        <p  id="borda"></p>
+        <a id="clickpara" href="https://www.youtube.com/@ensinio/videos">Clique para assistir</a>
+    </div>
+    <p id="saibamais">Saiba mais</p>
+    <a id="seta">---></a>
+    
+</body>
+</html>
