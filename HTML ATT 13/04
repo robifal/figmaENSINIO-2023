@@ -8,6 +8,15 @@
 <link rel="stylesheet" href="pweb.css">
 </head>
 <body>
+    <div id="backck">
+        <img id="back1" src="img/Rectangle 1335.png" alt="">  
+    </div>
+    <div>
+        <img id="back2" src="img/Rectangle 1339.png" alt="">    
+    </div>
+
+
+
     <div id="headr">
         <img id="logo" src="/img/logo.png" alt="">
         <p id="contato">Contato</p>
